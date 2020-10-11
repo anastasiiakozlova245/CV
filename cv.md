@@ -29,7 +29,9 @@
     * JS for beginners
    
    Bachelor degree in Electronics and Nanoelectronics of Saratov State University
+   
    Master degree in Material Science of Saratov State University
+   
    Specialist degree in English translator in the field of professional communication
    
  8. English level: **C1** 
