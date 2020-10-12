@@ -1,1 +1,1 @@
-https://anastasiiakozlova245.github.io/CV/cv
+https://anastasiiakozlova245.github.io/CV/cv.md
