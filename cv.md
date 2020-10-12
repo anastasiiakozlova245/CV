@@ -1,4 +1,4 @@
-![Avatar](Photo 2.jpg)
+![Avatar](Photo.jpg)
 
 Anastasiia Kozlova (Козлова Анастасия Андреевна)
 
