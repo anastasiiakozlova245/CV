@@ -1,4 +1,4 @@
-![Avatar](Photo 1.jpg) {.center}
+![Avatar| 10%](Photo 1.jpg)
 
 Anastasiia Kozlova
 
